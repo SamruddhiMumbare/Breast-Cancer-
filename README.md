@@ -10,4 +10,5 @@ Descision Tree Classifier : 0.9239766081871345
 Random Forest Classifier : 0.9649122807017544
 
 Accuracy of model using Support Vector Machine is maximum while, accuracy of model using Naive Bayes Classifier was least.
-cross validation mean accuracy : 0.9498417721518987
+
+Cross validation mean accuracy : 0.9498417721518987
